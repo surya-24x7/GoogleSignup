@@ -1,0 +1,94 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing:border-box;
+	font-family: arial,sans-serif;
+}
+
+.navbar ul li{
+	display: inline-block!important;
+}
+
+ul li{
+	display: inline-block;
+	margin:0px 10px;
+	font-size: 22px;
+}
+
+.mapimage img{
+	width: 300px;
+	height: 200px;
+
+}
+
+.icons{
+	cursor: pointer;
+}
+
+
+.maindiv{
+	background-color: #ecf0f1;
+	width: 380px;
+}
+
+*input{
+
+}
+
+.maindiv > div{
+	margin:20px 20px;
+}
+
+.username input{
+	border: none;
+	width: 49%;padding: 2px 0;
+}
+
+.mail input{
+	width: 100%;
+	padding:2px 0;
+	border:none;
+}
+
+
+.password input{
+	width: 100%;
+	padding:2px 0;
+	border:none;
+}
+
+.passw input{
+	width: 100%;
+	padding:2px 0;
+	border:none;
+}
+
+.emailid input{
+	width: 100%;
+	padding:2px 0;
+	border:none; 
+}
+
+.birthday input{
+	width: 100%;
+	padding:2px 0;
+	border:none;
+}
+
+.mobile input{
+	width: 100%;
+	padding:2px 0;
+	border:none;
+
+}
+
+.opt select{
+	width: 100%;
+	padding: 5px 0;
+	border:none;
+}
+
+.lastinfo{
+	font-size: .9rem;
+	margin-left: 53px;
+}
